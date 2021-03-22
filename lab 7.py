@@ -1,6 +1,4 @@
-#Rihar del tito-71200648
-#Universitas Kristen Duta Wacana
-#strings
+
 #http://pemrograman-sederhana.blogspot.com/2014/09/menghitung-singkatan
 # huruf-dan-konsonan-di_99.html
 '''
